@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751079709317",
+    "project_id": "deliverymomba",
+    "storage_bucket": "deliverymomba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751079709317:android:6e226d0b6d85fb7f2527ec",
+        "android_client_info": {
+          "package_name": "com.example.momba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751079709317-i08c7uf6gndqmsip4c736ja7hgqide4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.momba",
+            "certificate_hash": "c1c3ff0c7035cb71c89fcb071450340638e939c6"
+          }
+        },
+        {
+          "client_id": "751079709317-0crogqibgeqgp7r9h5c2c79l57hqbcfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnC4GBST5gi1vvVzGbquoAqzhNwPru1jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751079709317-0crogqibgeqgp7r9h5c2c79l57hqbcfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
